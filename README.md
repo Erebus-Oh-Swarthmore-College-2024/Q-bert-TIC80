@@ -1,6 +1,8 @@
 # Remake Project: Q*bert
 Erebus Oh, Trisha Razdan
 
+https://erebus-oh-swarthmore-college.github.io/Q-bert-TIC80/
+
 ## Collaboration Statement
 10/23/2023
 CS 91S: Game Systems
